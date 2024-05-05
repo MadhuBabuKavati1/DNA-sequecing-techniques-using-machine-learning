@@ -52,8 +52,10 @@ Thus we have 3504 sequences in the training data and 876 sequences in the testin
 Our next step is to build a Multinomial Naive Bayes classifier. The most effective n-gram size and model alpha are 4 and 0.1, according to prior parameter tuning results.
 <img width="631" alt="Screenshot 2024-05-04 at 10 58 43 PM" src="https://github.com/MadhuBabuKavati1/DNA-sequecing-techniques-using-machine-learning/assets/162259846/38922785-3395-42e0-af73-8db492f77434">
 
+
 **Evaluation Metrics**
 <img width="587" alt="Screenshot 2024-05-04 at 10 59 24 PM" src="https://github.com/MadhuBabuKavati1/DNA-sequecing-techniques-using-machine-learning/assets/162259846/9124393a-573a-4be9-9578-e595c8185e72">
+
 
 **Result Analysis**
 <img width="740" alt="Screenshot 2024-05-04 at 11 00 15 PM" src="https://github.com/MadhuBabuKavati1/DNA-sequecing-techniques-using-machine-learning/assets/162259846/11df4c13-c302-4ee8-b54d-bbf77565168e">
